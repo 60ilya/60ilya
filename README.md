@@ -1,8 +1,8 @@
 <div align="center">
 
-# Привет, я Илья 👋
+# Hey, I'm Ilya 👋
 
-**Backend Developer** из Алматы, Казахстан
+**Backend Developer** from Almaty, Kazakhstan
 
 Python · PHP · Django · Laravel · FastAPI · ML
 
@@ -13,19 +13,19 @@ Python · PHP · Django · Laravel · FastAPI · ML
 
 ---
 
-### 🧑‍💻 Обо мне
+### 🧑‍💻 About Me
 
-- 🎓 Выпускник ДВФУ — бакалавриат + профпереподготовка «Аналитик данных» (Цифровые кафедры)
-- 💼 Работал 1,5 года программистом в АО УК «Дальневосточный рыбак» — ERP на Laravel, RAG-система на Python
-- 🔗 Фрилансер с 2024 года — боты, парсеры, сайты, браузерные расширения
-- 🏆 1 место в номинации «Выбор АТБ банка», Проектная школа ДВФУ (2023)
-- 💻 Участник RuCode — соревнования по спортивному программированию
+- 🎓 Graduated from FEFU — Bachelor's degree + "Data Analyst" professional retraining (Digital Departments)
+- 💼 Worked 1.5 years as a developer at DV Rybak — ERP on Laravel, RAG system on Python
+- 🔗 Freelancer since 2024 — bots, scrapers, websites, browser extensions
+- 🏆 1st place in "ATB Bank's Choice" nomination, FEFU Project School (2023)
+- 💻 RuCode participant — competitive programming contests
 
 ---
 
-### 🛠 Стек технологий
+### 🛠 Tech Stack
 
-**Языки и фреймворки**
+**Languages & Frameworks**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -42,7 +42,7 @@ Python · PHP · Django · Laravel · FastAPI · ML
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Базы данных и инфраструктура**
+**Databases & Infrastructure**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -55,13 +55,13 @@ Python · PHP · Django · Laravel · FastAPI · ML
 
 ---
 
-### 🚀 Проекты
+### 🚀 Projects
 
-| Проект | Описание | Стек |
-|--------|----------|------|
-| **MeetCubing** | Платформа для организации турниров по спидкубингу | Python, Django, MySQL, Docker |
-| **ERP «ДВ Рыбак»** | Внутренняя ERP-система с интеграцией 1С | PHP, Laravel, MySQL, Docker |
-| **RAG-система для «ДВ Рыбак»** | Корпоративный поиск по базе знаний с LLM | Python, FastAPI, Transformers, PyTorch |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **MeetCubing** | Platform for organizing speedcubing tournaments | Python, Django, MySQL, Docker |
+| **DV Rybak ERP** | Internal ERP system with 1C integration | PHP, Laravel, MySQL, Docker |
+| **DV Rybak RAG** | Corporate knowledge base search powered by LLM | Python, FastAPI, Transformers, PyTorch |
 
 ---
 
@@ -77,6 +77,6 @@ Python · PHP · Django · Laravel · FastAPI · ML
 
 <div align="center">
 
-*Открыт к предложениям по работе и интересным проектам*
+*Open to job offers and interesting projects*
 
 </div>
